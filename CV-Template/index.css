@@ -1,0 +1,189 @@
+/* =========
+   RESET
+========= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* =========
+   BASE
+========= */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #222;
+    padding: 40px 20px;
+}
+
+/* =========
+   LAYOUT
+========= */
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* =========
+   HEADER
+========= */
+
+header {
+    border-bottom: 2px solid #e5e5e5;
+    padding-bottom: 24px;
+    margin-bottom: 32px;
+}
+
+header h1 {
+    font-size: 2.4rem;
+    margin-bottom: 8px;
+    color: #111;
+}
+
+header > p {
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+/* =========
+   CONTACT
+========= */
+
+address {
+    font-style: normal;
+}
+
+address p {
+    margin-bottom: 6px;
+}
+
+address a {
+    color: #1d4ed8;
+    text-decoration: none;
+}
+
+address a:hover {
+    text-decoration: underline;
+}
+
+/* =========
+   SECTIONS
+========= */
+
+section {
+    margin-bottom: 40px;
+}
+
+section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 18px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #ddd;
+    color: #111;
+}
+
+/* =========
+   ARTICLES
+========= */
+
+article {
+    margin-bottom: 28px;
+}
+
+article h3 {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+    color: #222;
+}
+
+article p {
+    margin-bottom: 12px;
+}
+
+/* =========
+   LISTS
+========= */
+
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+/* =========
+   SKILLS
+========= */
+
+.skills ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    list-style: none;
+    padding-left: 0;
+}
+
+.skills li {
+    background-color: #eef2ff;
+    color: #1e3a8a;
+    padding: 8px 14px;
+    border-radius: 999px;
+    font-size: 0.95rem;
+    margin-bottom: 0;
+}
+
+/* =========
+   LINKS
+========= */
+
+.internet ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.internet li {
+    margin-bottom: 10px;
+}
+
+.internet a {
+    color: #1d4ed8;
+    text-decoration: none;
+}
+
+.internet a:hover {
+    text-decoration: underline;
+}
+
+/* =========
+   RESPONSIVE
+========= */
+
+@media (max-width: 768px) {
+
+    body {
+        padding: 20px 12px;
+    }
+
+    .container {
+        padding: 24px;
+    }
+
+    header h1 {
+        font-size: 2rem;
+    }
+
+    section h2 {
+        font-size: 1.3rem;
+    }
+}
