@@ -18,6 +18,6 @@
 
 ### Tasks Tracker
 - [x] Semantic HTML: Use appropriate HTML tags to structure your CV.
--[ ] SEO Meta Tags: Include essential meta tags for SEO.
--[ ] Open Graph (OG) Tags: Add OG tags for better social media sharing.
--[ ] Favicon: Add a favicon for your CV page.
+-[x] SEO Meta Tags: Include essential meta tags for SEO.
+-[x] Open Graph (OG) Tags: Add OG tags for better social media sharing.
+-[x] Favicon: Add a favicon for your CV page.
