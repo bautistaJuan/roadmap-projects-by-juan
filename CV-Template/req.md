@@ -14,3 +14,10 @@
 - A favicon linked in the head section.
 
 > By completing this project, you'll gain a solid understanding of how to create a single-page CV using HTML, apply basic SEO principles, and prepare your webpage for future styling. This foundation will enable you to move on to styling the CV using CSS in subsequent projects.
+
+
+### Tasks Tracker
+- [x] Semantic HTML: Use appropriate HTML tags to structure your CV.
+-[x] SEO Meta Tags: Include essential meta tags for SEO.
+-[x] Open Graph (OG) Tags: Add OG tags for better social media sharing.
+-[x] Favicon: Add a favicon for your CV page.
