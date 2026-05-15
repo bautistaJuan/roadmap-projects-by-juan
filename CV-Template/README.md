@@ -1,8 +1,8 @@
+https://roadmap.sh/projects/single-page-cv
+
 # Single Page CV
 
-Proyecto realizado como parte del roadmap de Frontend de roadmap.sh.
-
-https://roadmap.sh/projects/single-page-cv
+Proyecto realizado como parte del roadmap de Frontend de roadmap.sh
 
 ## Demo
 
