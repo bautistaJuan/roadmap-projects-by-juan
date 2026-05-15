@@ -1,6 +1,11 @@
 # Single Page CV
 
 Proyecto realizado como parte del roadmap de Frontend de roadmap.sh.
+project URL: https://roadmap.sh/projects/single-page-cv
+
+## Demo
+
+[Ver proyecto desplegado](https://single-page-cv-juan.vercel.app)
 
 ## Descripción
 
@@ -27,10 +32,3 @@ Este proyecto consiste en la creación de un CV de una sola página utilizando H
 - Configurar Open Graph para previews en redes sociales
 - Preparar un documento listo para futuras mejoras visuales
 
-## Proyecto original
-
-[roadmap.sh - Single Page CV Project](https://roadmap.sh/projects/single-page-cv)
-
-## Demo
-
-[Ver proyecto desplegado](https://single-page-cv-juan.vercel.app)
