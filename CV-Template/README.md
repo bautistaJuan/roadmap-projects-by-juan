@@ -1,7 +1,8 @@
 # Single Page CV
 
 Proyecto realizado como parte del roadmap de Frontend de roadmap.sh.
-project URL: https://roadmap.sh/projects/single-page-cv
+
+https://roadmap.sh/projects/single-page-cv
 
 ## Demo
 
