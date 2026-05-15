@@ -6,7 +6,7 @@ Proyecto realizado como parte del roadmap de Frontend de roadmap.sh
 
 ## Demo
 
-[Ver proyecto desplegado](https://single-page-cv-juan.vercel.app)
+[Ver proyecto desplegado](https://roadmap-projects-by-juan.vercel.app)
 
 ## Descripción
 
