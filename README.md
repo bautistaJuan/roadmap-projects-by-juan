@@ -46,6 +46,7 @@ https://roadmap.sh
 | Proyecto | Estado |
 | --- | --- |
 | Single Page CV | Completado |
+| Basic HTML Website | En progreso |
 
 ## Nota
 
