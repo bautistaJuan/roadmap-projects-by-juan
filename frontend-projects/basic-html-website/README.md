@@ -1,4 +1,5 @@
-https://roadmap.sh/projects/basic-html-website
+[project URL](https://roadmap.sh/projects/basic-html-website)
+[Preview](https://roadmap-projects-by-juan-diki.vercel.app)
 
 # Basic HTML Website
 > In this project, you are required to create a simple HTML-only website with multiple pages. The website should have the following pages:
