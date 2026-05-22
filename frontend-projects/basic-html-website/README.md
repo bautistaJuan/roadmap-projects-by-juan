@@ -1,20 +1,30 @@
-
 # Basic HTML Website
-> In this project, you are required to create a simple HTML-only website with multiple pages. The website should have the following pages:
- - **Homepage**
- - **Projects** 
- - **Articles**
-- **Contact**
 
-The website should have a navigation bar that should be present on all pages and link to all the pages.
-You are not required to style the website; you are only required to create the structure of the website using HTML. The goals of this project are:
-Learn how to create multiple pages on a website.
-Structure a website semantically using HTML.
-Structure in a way that you can easily add styles later.
-Add SEO meta tags to the website.
-You can use the following mockup example to create the structure of the website (remember, you are not required to style the website, only focus on the structure that you can style later):
-
+This is my solution for the **Basic HTML Website** project from roadmap.sh.
 
 ## Project Link
-- **Official Project**: [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
-- **Live Preview**: [https://roadmap-projects-by-juan-diki.vercel.app](https://roadmap-projects-by-juan-diki.vercel.app)
+https://roadmap.sh/projects/basic-html-website
+
+## Live Preview
+https://roadmap-projects-by-juan-diki.vercel.app
+
+## Description
+
+A simple multi-page website built with HTML only (no CSS required for this project, though basic styling was added).
+
+### Features
+- Multiple pages: Homepage, Projects, Articles, Contact
+- Persistent navigation bar on all pages
+- Semantic HTML structure
+- SEO meta tags included
+- Contact form structure
+
+## What I Learned
+- How to create multi-page websites with proper linking
+- Semantic HTML best practices
+- Structuring a site for future styling
+- Adding meta tags for better SEO
+
+---
+
+**Project URL:** https://roadmap.sh/projects/basic-html-website
