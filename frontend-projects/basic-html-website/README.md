@@ -15,5 +15,6 @@ Add SEO meta tags to the website.
 You can use the following mockup example to create the structure of the website (remember, you are not required to style the website, only focus on the structure that you can style later):
 
 
-[project URL](https://roadmap.sh/projects/basic-html-website)
-[Preview](https://roadmap-projects-by-juan-diki.vercel.app)
+## Project Link
+- **Official Project**: [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
+- **Live Preview**: [https://roadmap-projects-by-juan-diki.vercel.app](https://roadmap-projects-by-juan-diki.vercel.app)
