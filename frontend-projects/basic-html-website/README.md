@@ -1,5 +1,3 @@
-[project URL](https://roadmap.sh/projects/basic-html-website)
-[Preview](https://roadmap-projects-by-juan-diki.vercel.app)
 
 # Basic HTML Website
 > In this project, you are required to create a simple HTML-only website with multiple pages. The website should have the following pages:
@@ -15,3 +13,7 @@ Structure a website semantically using HTML.
 Structure in a way that you can easily add styles later.
 Add SEO meta tags to the website.
 You can use the following mockup example to create the structure of the website (remember, you are not required to style the website, only focus on the structure that you can style later):
+
+
+[project URL](https://roadmap.sh/projects/basic-html-website)
+[Preview](https://roadmap-projects-by-juan-diki.vercel.app)
