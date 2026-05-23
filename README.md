@@ -1,52 +1,61 @@
-# Roadmap.sh Projects
+# Front-end Projects from Roadmap.sh
 
+This repository contains front-end projects built following the [roadmap.sh](https://roadmap.sh) front-end developer path.
 
-Repositorio donde documento y organizo los proyectos realizados de la plataforma roadmap.sh con el objetivo de reforzar fundamentos de desarrollo web, mejorar buenas prácticas y construir proyectos progresivamente más complejos.
+## 📋 Projects List
 
-## Estructura del repositorio
+| # | Project | Project Link | Demo | Status |
+|---|---------|--------------|------|--------|
+| 1 | Basic HTML Website | [View](./frontend-projects/basic-html-website) | [Live Demo](https://roadmap-projects-by-juan-diki.vercel.app) | In Progress |
 
-Cada proyecto se encuentra en su propia carpeta junto con su código fuente, recursos y documentación correspondiente.
+## 🎯 Objectives
 
-```txt
-/projects
-│
-├── single-page-cv: https://roadmap.sh/projects/single-page-cv
-├── basic-html-website: https://roadmap.sh/projects/basic-html-website
-└── ...
+- Practice front-end development fundamentals
+- Improve project structure and organization
+- Apply real-world best practices
+- Build projects incrementally
+- Document the learning process
+- Strengthen HTML, CSS, and JavaScript skills
+
+## 🛠️ Technologies Used
+
+Depending on the project:
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **TypeScript** (when applicable)
+- **React** (for advanced projects)
+- **Next.js** (for full-featured projects)
+- **Tailwind CSS**
+
+## 📁 Repository Structure
+
+Each project is organized in its own folder with source code, assets, and documentation:
+
+```
+/frontend-projects
+├── basic-html-website/
+│   ├── README.md
+│   ├── index.html
+│   ├── projects.html
+│   ├── articles.html
+│   ├── contact.html
+│   └── styles.css
 ```
 
-## Objetivos
+## 📚 Learning Path
 
-- Practicar desarrollo frontend y backend
-- Mejorar estructura y organización de proyectos
-- Aplicar buenas prácticas reales
-- Construir proyectos de forma incremental
-- Documentar el proceso de aprendizaje
+This repository follows the [Roadmap.sh Front-end Developer Path](https://roadmap.sh/frontend), covering:
 
-## Tecnologías utilizadas
+1. **Fundamentals**: HTML, CSS, JavaScript basics
+2. **Intermediate**: DOM manipulation, component building
+3. **Advanced**: Interactive UIs, API integration, state management
 
-Dependiendo del proyecto:
+## 🚀 Getting Started
 
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Tailwind CSS
-- Firebase
+Click on any project link to view the README and live demo.
 
-## Roadmap utilizado
+---
 
-https://roadmap.sh
-
-## Proyectos completados
-
-| Proyecto | Estado |
-| --- | --- |
-| Single Page CV | Completado |
-| Basic HTML Website | Completado |
-
-## Nota
-
-Este repositorio funciona como espacio de práctica, experimentación y seguimiento de aprendizaje continuo.
+**Note:** This repository serves as a space for practice, experimentation, and continuous learning. Each project includes a detailed README with instructions and learning notes.
