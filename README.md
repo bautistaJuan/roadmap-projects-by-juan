@@ -1,6 +1,6 @@
 # Roadmap.sh Projects
 
-https://roadmap.sh/projects/single-page-cv
+
 https://roadmap.sh/projects/basic-html-website
 
 Repositorio donde documento y organizo los proyectos realizados de la plataforma roadmap.sh con el objetivo de reforzar fundamentos de desarrollo web, mejorar buenas prácticas y construir proyectos progresivamente más complejos.
@@ -12,8 +12,8 @@ Cada proyecto se encuentra en su propia carpeta junto con su código fuente, rec
 ```txt
 /projects
 │
-├── single-page-cv
-├── upcoming-project
+├── single-page-cv: https://roadmap.sh/projects/single-page-cv
+├── basic-html-website: https://roadmap.sh/projects/basic-html-website
 └── ...
 ```
 
@@ -47,7 +47,7 @@ https://roadmap.sh
 | Proyecto | Estado |
 | --- | --- |
 | Single Page CV | Completado |
-| Basic HTML Website | En progreso |
+| Basic HTML Website | Completado |
 
 ## Nota
 
