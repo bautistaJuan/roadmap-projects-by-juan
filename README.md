@@ -6,7 +6,8 @@ This repository contains front-end projects built following the [roadmap.sh](htt
 
 | # | Project | Project Link | Demo | Status |
 |---|---------|--------------|------|--------|
-| 1 | Basic HTML Website | [View](./frontend-projects/basic-html-website) | [Live Demo](https://roadmap-projects-by-juan-diki.vercel.app) | In Progress |
+| 1 | CV Template | [View](https://roadmap.sh/projects/single-page-cv) | [Live Demo](https://roadmap-projects-by-juan.vercel.app) | Done |
+| 2 | Basic HTML Website | [View](https://roadmap.sh/projects/basic-html-website) | [Live Demo](https://roadmap-projects-by-juan-diki.vercel.app) | Done |
 
 ## 🎯 Objectives
 
@@ -25,24 +26,6 @@ Depending on the project:
 - **CSS3**
 - **JavaScript**
 - **TypeScript** (when applicable)
-- **React** (for advanced projects)
-- **Next.js** (for full-featured projects)
-- **Tailwind CSS**
-
-## 📁 Repository Structure
-
-Each project is organized in its own folder with source code, assets, and documentation:
-
-```
-/frontend-projects
-├── basic-html-website/
-│   ├── README.md
-│   ├── index.html
-│   ├── projects.html
-│   ├── articles.html
-│   ├── contact.html
-│   └── styles.css
-```
 
 ## 📚 Learning Path
 
