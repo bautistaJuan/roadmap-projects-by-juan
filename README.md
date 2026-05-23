@@ -1,8 +1,6 @@
 # Roadmap.sh Projects
 
 
-https://roadmap.sh/projects/basic-html-website
-
 Repositorio donde documento y organizo los proyectos realizados de la plataforma roadmap.sh con el objetivo de reforzar fundamentos de desarrollo web, mejorar buenas prácticas y construir proyectos progresivamente más complejos.
 
 ## Estructura del repositorio
